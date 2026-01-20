@@ -1,3 +1,6 @@
+if getgenv().NAION_HUB_LOADED then return end
+getgenv().NAION_HUB_LOADED = true
+
 --// ======================================================
 --// NaiOn Hub | FINAL FOUNDATION (STABLE FIXED)
 --// ======================================================
